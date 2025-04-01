@@ -1,6 +1,4 @@
-Elena (she/her)
-Very much an amateur
-I just do this for fun
+Elena (she/her): Very much an amateur, I just do this for fun
 
 <!---
 campfirelena/campfirelena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
